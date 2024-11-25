@@ -3,7 +3,7 @@
   <hr></p>
 
 <p align="center">
-🎓 PERSUING B.Tech - ARTIFICIAL INTELLIGENCE AND DATA SCIENCE<br>👩‍💻 CURRENTLY WORKING ON MACHINE LEARNING PROJECTS<br>⚡ ASPIRED TO LEARN DEEP LEARNING<br>👯 LEAD OF GOOGLE DEVELOPER STUDENTS CLUB @ JSR<br>🌱 MENTOR AT CODINGCOACH & DESIGNED<br>🙋‍♀ VOLUNTEER @VOLUNTEER FOR INDIA
+🎓 Pursuing B.Tech in Artificial Intelligence and Data Science (Final Year) <br>👩‍💻 👨‍💻 Currently working on Data Science and Machine Learning projects <br>📊 Experienced in creating BI dashboards, predictive analytics, and traffic volume analysis systems <br>🧠 Developed EEG-based cognitive disability monitoring solutions using AI-driven insights <br>🚀 Passionate about exploring Deep Learning and fine-tuning Large Language Models (LLMs) <br>🌟 Former Lead of Google Developer Students Club, organized GDSC WOW Tamil Nadu 2024 with 300+ attendees and 10+ speakers <br> 💻 Internship experience at Lenovo and Kyungpook National University, focusing on cutting-edge ML research and data analytics <br> 🎯 Collaborated on Retrieval-Augmented Generation (RAG) systems and designed innovative technical solutions <br> 💡 I am enthusiastic about leveraging my skills in data analytics, machine learning, and AI to solve complex challenges and drive impactful projects. Let's connect and collaborate! <br>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=CHANGE,+IS+INEVITABLE.;GROWTH,+IS+OPTIONAL)](https://git.io/typing-svg)
    <img align='right' src="https://media2.giphy.com/media/w0Fy3hcQuZxxQgo0KR/giphy.gif" width="100" height="100" >
@@ -30,7 +30,6 @@
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 
 </div>
 
@@ -55,15 +54,16 @@
 </div>
 
 
-<div align="center">
-  
- 𝙄 𝙙𝙚𝙨𝙞𝙜𝙣 𝙩𝙝𝙧𝙤𝙪𝙜𝙝
+</div> <div align="center">
+🏆 Highlights:
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-</div>
+🌟 Lead Organizer of GDSC WOW Tamil Nadu 2024 (300+ attendees, 10+ speakers).<br>
+🧠 Developed EEG-based cognitive disability monitoring system using AI-driven insights.<br>
+📈 Built Traffic Volume Analysis Dashboards leveraging Python and Tableau.<br>
+📂 Experienced in RAG Systems and LLM fine-tuning.<br>
+💻 Interned at Lenovo and Kyungpook National University, South Korea.<br>
 
-
-<div align="center">
+</div> <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MystiFoe)](https://github.com/ryo-ma/github-profile-trophy)
 
