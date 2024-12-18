@@ -1,94 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giritharan Mani - Design Portfolio</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Poppins', sans-serif;
+        }
+        body {
+            background: linear-gradient(135deg, #1f1c2c, #928dab);
+            color: #fff;
+            line-height: 1.6;
+            padding: 0 20px;
+        }
+        header {
+            text-align: center;
+            padding: 50px 0;
+        }
+        header h1 {
+            font-size: 3rem;
+            color: #f9c74f;
+        }
+        header p {
+            font-size: 1.2rem;
+            margin-top: 10px;
+            color: #f4a261;
+        }
+        section {
+            margin: 30px 0;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+        }
+        section h2 {
+            font-size: 2rem;
+            margin-bottom: 20px;
+            color: #e9c46a;
+        }
+        .content {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+        .card {
+            background: #22223b;
+            border-radius: 10px;
+            padding: 15px;
+            flex: 1 1 calc(50% - 20px);
+            box-shadow: 0 6px 10px rgba(0, 0, 0, 0.4);
+        }
+        .card h3 {
+            font-size: 1.5rem;
+            margin-bottom: 10px;
+            color: #f4a261;
+        }
+        .card ul {
+            list-style: disc;
+            margin-left: 20px;
+        }
+        .tools {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-top: 10px;
+        }
+        .tool {
+            background: #2a9d8f;
+            padding: 10px 15px;
+            border-radius: 10px;
+            color: white;
+            font-size: 0.9rem;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+        }
+        footer {
+            text-align: center;
+            margin: 30px 0;
+            color: #ffb703;
+        }
+        .skills, .certifications {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        .badge {
+            background: #3a86ff;
+            padding: 10px 15px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            color: white;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.4);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Giritharan Mani</h1>
+        <p>UI/UX Designer | AI Enthusiast | Data Scientist</p>
+    </header>
 
-<h2><p align="center"><b>Hi there 👋,  <i>I'm Giritharan Mani!</i></b><h2></p>
-  <hr></p>
+    <section id="experience">
+        <h2>Internship Experience</h2>
+        <div class="content">
+            <div class="card">
+                <h3>UI/UX Developer Intern</h3>
+                <p>Kovan Labs, Coimbatore | March 2024 - August 2024</p>
+                <ul>
+                    <li>Collaborated with product managers and developers to create user-centered designs aligning with business goals.</li>
+                    <li>Designed user flows, wireframes, prototypes, and high-fidelity mockups using <strong>Figma</strong> and <strong>Adobe XD</strong>.</li>
+                    <li>Conducted usability testing and translated insights into development-ready specifications.</li>
+                    <li>Maintained and enhanced design standards for consistent user experience.</li>
+                    <li>Created rough layouts focusing on typography, layout, and aesthetics.</li>
+                </ul>
+            </div>
 
-<p align="center">
-🎓 Pursuing B.Tech in Artificial Intelligence and Data Science (Final Year) <br>👩‍💻 👨‍💻 Currently working on Data Science and Machine Learning projects <br>📊 Experienced in creating BI dashboards, predictive analytics, and traffic volume analysis systems <br>🧠 Developed EEG-based cognitive disability monitoring solutions using AI-driven insights <br>🚀 Passionate about exploring Deep Learning and fine-tuning Large Language Models (LLMs) <br>🌟 Former Lead of Google Developer Students Club, organized GDSC WOW Tamil Nadu 2024 with 300+ attendees and 10+ speakers <br> 💻 Internship experience at Lenovo and Kyungpook National University, focusing on cutting-edge ML research and data analytics <br> 🎯 Collaborated on Retrieval-Augmented Generation (RAG) systems and designed innovative technical solutions <br> 💡 I am enthusiastic about leveraging my skills in data analytics, machine learning, and AI to solve complex challenges and drive impactful projects. Let's connect and collaborate! <br>
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=CHANGE,+IS+INEVITABLE.;GROWTH,+IS+OPTIONAL)](https://git.io/typing-svg)
-   <img align='right' src="https://media2.giphy.com/media/w0Fy3hcQuZxxQgo0KR/giphy.gif" width="100" height="100" >
-   
-   
-<div align="center">
-  
-𝙇𝙚𝙩𝙨 𝙘𝙤𝙣𝙣𝙚𝙘𝙩 𝙩𝙝𝙧𝙤𝙪𝙜𝙝
-  
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MystiFoe) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mystifoe/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Mysti.Foe.76) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mysti_foe/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Mysti_Foe) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@mystifoe3732) 
-  
-</div>  
+            <div class="card">
+                <h3>User Experience Research Intern</h3>
+                <p>Kyungpook National University | December 2022</p>
+                <ul>
+                    <li>Analyzed user behavior to develop interactive prototypes and wireframes.</li>
+                    <li>Conducted user testing and implemented feedback for iterative design improvements.</li>
+                    <li>Developed wireframes and documented user flows to address complex challenges.</li>
+                    <li>Used qualitative and quantitative research methods to improve usability.</li>
+                </ul>
+            </div>
+        </div>
+    </section>
 
-<div align="center">
-  
-𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 𝙠𝙣𝙤𝙬𝙣
-  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+    <section id="leadership">
+        <h2>Leadership Experience</h2>
+        <div class="content">
+            <div class="card">
+                <h3>President</h3>
+                <p>ArtificGenix (Department Association) | November 2022 – October 2023</p>
+                <ul>
+                    <li>Directed creative efforts for promotional assets and workshops impacting 400+ students.</li>
+                    <li>Developed branding materials ensuring cohesive designs.</li>
+                </ul>
+            </div>
 
-</div>
+            <div class="card">
+                <h3>Lead</h3>
+                <p>Google Developer Student Club (GDSC) | July 2023 – July 2024</p>
+                <ul>
+                    <li>Led design efforts for GDSC WOW Tamil Nadu 2k24, creating high-fidelity mockups for marketing.</li>
+                    <li>Conducted workshops on user experience design and prototyping.</li>
+                </ul>
+            </div>
+        </div>
+    </section>
 
+    <section id="projects">
+        <h2>Highlighted Projects</h2>
+        <div class="content">
+            <div class="card">
+                <h3>CogniCare</h3>
+                <p>Cognitive Rehabilitation Platform</p>
+                <ul>
+                    <li>Designed an EEG-based cognitive monitoring dashboard.</li>
+                    <li>Created interactive prototypes using <strong>Figma</strong> and <strong>Tableau</strong>.</li>
+                    <li>Delivered intuitive user experiences simplifying patient rehabilitation tracking.</li>
+                </ul>
+            </div>
 
-<div align="center">
+            <div class="card">
+                <h3>Food Donation Platform</h3>
+                <p>Social Impact Initiative</p>
+                <ul>
+                    <li>Developed a platform connecting food donors with NGOs.</li>
+                    <li>Enhanced user engagement by 30% with clean, accessible designs.</li>
+                    <li>Built wireframes and interactive prototypes using <strong>HTML, CSS</strong>, and <strong>JavaScript</strong>.</li>
+                </ul>
+            </div>
+        </div>
+    </section>
 
-𝙄 𝙬𝙤𝙧𝙠 𝙬𝙞𝙩𝙝 
+    <section id="skills">
+        <h2>Skills & Tools</h2>
+        <div class="tools">
+            <span class="tool">Figma</span>
+            <span class="tool">Adobe XD</span>
+            <span class="tool">Sketch</span>
+            <span class="tool">HTML</span>
+            <span class="tool">CSS</span>
+            <span class="tool">Python</span>
+            <span class="tool">Tableau</span>
+            <span class="tool">Miro</span>
+        </div>
+    </section>
 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white&align"centre") 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white&align=centre)
+    <section id="awards">
+        <h2>Awards & Achievements</h2>
+        <div class="content">
+            <ul>
+                <li><strong>Googleathon 2023 Winner:</strong> Designed an innovative Donation Platform UI.</li>
+                <li><strong>AWS DeepRacer Finalist:</strong> Ranked in the Top 5.</li>
+                <li><strong>Best Project Presentation:</strong> Awarded for CogniCare dashboard design.</li>
+                <li><strong>Kamarajar Award:</strong> Recognized for excellence in academics and extracurriculars.</li>
+            </ul>
+        </div>
+    </section>
 
-
-</div>
-
-
-<div align="center">
-
-𝙇𝙞𝙗𝙧𝙖𝙧𝙞𝙚𝙨
-  
-  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-</div>
-
-
-</div> <div align="center">
-🏆 Highlights:
-
-🌟 Lead Organizer of GDSC WOW Tamil Nadu 2024 (300+ attendees, 10+ speakers).<br>
-🧠 Developed EEG-based cognitive disability monitoring system using AI-driven insights.<br>
-📈 Built Traffic Volume Analysis Dashboards leveraging Python and Tableau.<br>
-📂 Experienced in RAG Systems and LLM fine-tuning.<br>
-💻 Interned at Lenovo and Kyungpook National University, South Korea.<br>
-
-</div> <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MystiFoe)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MystiFoe)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MystiFoe&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MystiFoe)  
-
-![GitHub metrics](https://metrics.lecoq.io/MystiFoe)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=MystiFoe)  
-
-
-𝙌𝙪𝙤𝙩𝙚𝙨
-<div align="center">
- 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
-
----
-[![](https://visitcount.itsvg.in/api?id=HariniMaruthasalam&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-![Profile views](https://gpvc.arturio.dev/MystiFoe)
+    <footer>
+        <p>&copy; 2024 Giritharan Mani. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
