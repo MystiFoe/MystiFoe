@@ -10,11 +10,11 @@ Machine Learning Engineer | Data Scientist | AI Researcher
 <h2 align="center" style="color: #34ebba;"> 🚀 About Me </h2>
 <div align="center">
 🌟 <strong>B.Tech in Artificial Intelligence and Data Science</strong> (Final Year)<br>
-⚡ <strong>Machine Learning Engineer</strong> specializing in **LLMs, NLP, RAG, and AI automation**.<br>
-🧠 <strong>Built ML-powered systems</strong> reducing manual workload by **65%** through **AI-driven automation**.<br>
+⚡ <strong>Machine Learning Engineer</strong> specializing in <strong>LLMs, NLP, RAG, and AI automation</strong>.<br>
+🧠 <strong>Built ML-powered systems</strong>, reducing manual workload by <strong>65%</strong> through AI-driven automation.<br>
 📊 <strong>Expert in Python, SQL, ML/DL, and Cloud Platforms (AWS, GCP)</strong>.<br>
-🎯 <strong>Google DSC Lead & Microsoft Learn Student Ambassador</strong>, leading **15+ AI & ML events**.<br>
-🏆 **Googleathon Winner | AWS DeepRacer Top 5 | Kamarajar Award Recipient**.<br>
+🎯 <strong>Google DSC Lead & Microsoft Learn Student Ambassador</strong>, leading <strong>15+ AI & ML events</strong>.<br>
+🏆 <strong>Googleathon Winner | AWS DeepRacer Top 5 | Kamarajar Award Recipient</strong>.<br>
 </div>
 
 ---
@@ -22,38 +22,50 @@ Machine Learning Engineer | Data Scientist | AI Researcher
 <h2 align="center" style="color: #ff914d;"> 💼 Professional Experience </h2>
 
 <h3 style="color: #ffb703;">🌟 Python Developer Intern</h3>
-**Allied Worldwide, Bengaluru | Feb 2025 – Present**  
-- **Automated report generation**, saving **5 hours/week** using Python & SQL.  
-- **Researching & developing process automation**, optimizing HR & customer service workflows.  
-- **Building RAG-based LLM models**, improving NLP efficiency and accuracy.  
+<strong>Allied Worldwide, Bengaluru | Feb 2025 – Present</strong>  
+<ul>
+  <li><strong>Automated report generation</strong>, saving <strong>5 hours/week</strong> using Python & SQL.</li>
+  <li><strong>Researching & developing process automation</strong>, optimizing HR & customer service workflows.</li>
+  <li><strong>Building RAG-based LLM models</strong>, improving NLP efficiency and accuracy.</li>
+</ul>
 
 <h3 style="color: #ffb703;">🌟 Machine Learning Engineer Intern</h3>
-**Kovan Labs, Coimbatore | Mar 2024 - Aug 2024**  
-- **Developed LLM-powered RAG models**, reducing manual support by **65%**.  
-- **Fine-tuned LLaMA models**, increasing response accuracy by **40%**.  
-- **Optimized ML pipelines**, cutting response delays by **40%** and saving operational costs.  
+<strong>Kovan Labs, Coimbatore | Mar 2024 - Aug 2024</strong>  
+<ul>
+  <li><strong>Developed LLM-powered RAG models</strong>, reducing manual support by <strong>65%</strong>.</li>
+  <li><strong>Fine-tuned LLaMA models</strong>, increasing response accuracy by <strong>40%</strong>.</li>
+  <li><strong>Optimized ML pipelines</strong>, cutting response delays by <strong>40%</strong> and saving operational costs.</li>
+</ul>
 
 <h3 style="color: #ffb703;">🌟 Research Intern</h3>
-**Kyungpook National University, South Korea | Dec 2022 – Jan 2023**  
-- **Enhanced ML model accuracy by 10%** through feature engineering & preprocessing.  
-- **Developed optimized classification models**, improving structured data pattern recognition.  
+<strong>Kyungpook National University, South Korea | Dec 2022 – Jan 2023</strong>  
+<ul>
+  <li><strong>Enhanced ML model accuracy by 10%</strong> through feature engineering & preprocessing.</li>
+  <li><strong>Developed optimized classification models</strong>, improving structured data pattern recognition.</li>
+</ul>
 
 <h3 style="color: #ffb703;">🌟 Data Analyst Intern</h3>
-**Lenovo, Pondicherry | Aug 2022**  
-- **Automated data analysis pipelines**, reducing manual effort by **30%**.  
-- **Increased decision-making efficiency by 25%** through real-time visualization.  
+<strong>Lenovo, Pondicherry | Aug 2022</strong>  
+<ul>
+  <li><strong>Automated data analysis pipelines</strong>, reducing manual effort by <strong>30%</strong>.</li>
+  <li><strong>Increased decision-making efficiency by 25%</strong> through real-time visualization.</li>
+</ul>
 
 ---
 
 <h2 align="center" style="color: #34a4eb;"> 🧩 Highlighted Projects </h2>
 
-**🔋 Battery RUL Prediction | Python, Scikit-Learn, MySQL**  
-- **Developed an ML-powered battery health dashboard**, increasing EV showroom satisfaction by **10%**.  
-- **Reduced failure rates by 25%** through predictive maintenance, optimizing battery lifespan.  
+<h3>🔋 Battery RUL Prediction | Python, Scikit-Learn, MySQL</h3>
+<ul>
+  <li><strong>Developed an ML-powered battery health dashboard</strong>, increasing EV showroom satisfaction by <strong>10%</strong>.</li>
+  <li><strong>Reduced failure rates by 25%</strong> through predictive maintenance, optimizing battery lifespan.</li>
+</ul>
 
-**🌕 Enhancing Lunar Surface Images | Python, OpenCV, NumPy**  
-- **Improved image clarity by 35%**, aiding lunar terrain analysis for research applications.  
-- **Increased feature detection accuracy by 40%**, enhancing space exploration data quality.  
+<h3>🌕 Enhancing Lunar Surface Images | Python, OpenCV, NumPy</h3>
+<ul>
+  <li><strong>Improved image clarity by 35%</strong>, aiding lunar terrain analysis for research applications.</li>
+  <li><strong>Increased feature detection accuracy by 40%</strong>, enhancing space exploration data quality.</li>
+</ul>
 
 ---
 
@@ -74,10 +86,12 @@ Machine Learning Engineer | Data Scientist | AI Researcher
 
 <h2 align="center" style="color: #d33f49;"> 🏆 Awards & Achievements </h2>
 
-- **🏆 Googleathon 2023 Winner** | Outperformed **100+ teams** with an AI-driven solution.  
-- **🚀 AWS DeepRacer Finalist** | Ranked **top 1%** among **500+ participants** in ML-based autonomous racing.  
-- **📈 AI Stock Prediction Winner** | Built a high-performing ML model to win **1st place in a national competition**.  
-- **🎖 Kamarajar Award** | Recognized in the **top 1%** for academic and leadership excellence.  
+<ul>
+  <li>🏆 <strong>Googleathon 2023 Winner</strong> | Outperformed <strong>100+ teams</strong> with an AI-driven solution.</li>
+  <li>🚀 <strong>AWS DeepRacer Finalist</strong> | Ranked <strong>top 1%</strong> among <strong>500+ participants</strong> in ML-based autonomous racing.</li>
+  <li>📈 <strong>AI Stock Prediction Winner</strong> | Built a high-performing ML model to win <strong>1st place</strong> in a national competition.</li>
+  <li>🎖 <strong>Kamarajar Award</strong> | Recognized in the <strong>top 1%</strong> for academic and leadership excellence.</li>
+</ul>
 
 ---
 
@@ -92,4 +106,3 @@ Machine Learning Engineer | Data Scientist | AI Researcher
 <img src="https://github-readme-stats.vercel.app/api?username=MystiFoe&show_icons=true&theme=radical" alt="GitHub Stats">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MystiFoe&theme=radical" alt="GitHub Streak">
 </p>
-
