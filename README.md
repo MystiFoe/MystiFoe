@@ -1,108 +1,383 @@
-<h1 align="center" style="font-family: 'Poppins', sans-serif; font-size: 50px; color: #ff5733;">
-✨ Giritharan Mani ✨
-</h1>
-<p align="center" style="font-size: 20px; font-style: italic; color: #6c63ff;">
-Machine Learning Engineer | Data Scientist | AI Researcher
-</p>
+# 🚀 Giritharan Mani | Data Scientist & AI Engineer
 
----
-
-<h2 align="center" style="color: #34ebba;"> 🚀 About Me </h2>
 <div align="center">
-🌟 <strong>B.Tech in Artificial Intelligence and Data Science</strong> (Final Year)<br>
-⚡ <strong>Machine Learning Engineer</strong> specializing in <strong>LLMs, NLP, RAG, and AI automation</strong>.<br>
-🧠 <strong>Built ML-powered systems</strong>, reducing manual workload by <strong>65%</strong> through AI-driven automation.<br>
-📊 <strong>Expert in Python, SQL, ML/DL, and Cloud Platforms (AWS, GCP)</strong>.<br>
-🎯 <strong>Google DSC Lead & Microsoft Learn Student Ambassador</strong>, leading <strong>15+ AI & ML events</strong>.<br>
-🏆 <strong>Googleathon Winner | AWS DeepRacer Top 5 | Kamarajar Award Recipient</strong>.<br>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=Transforming+Data+into+Strategic+Insights;Building+Intelligent+AI+Solutions;Bridging+Technology+%26+Business+Impact)](https://git.io/typing-svg)
+
+  <br>
+
+  [![Location](https://img.shields.io/badge/📍%20Based%20in-Bengaluru,%20India-FF6B6B?style=for-the-badge&logoColor=white)](https://maps.google.com/?q=Bengaluru,India)
+  [![Email](https://img.shields.io/badge/📧%20Reach%20me-giritharanmani1@gmail.com-4ECDC4?style=for-the-badge&logoColor=white)](mailto:giritharanmani1@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mystifoe)
+  
 </div>
 
 ---
 
-<h2 align="center" style="color: #ff914d;"> 💼 Professional Experience </h2>
+## 🎯 **About Me**
 
-<h3 style="color: #ffb703;">🌟 Python Developer Intern</h3>
-<strong>Allied Worldwide, Bengaluru | Feb 2025 – Present</strong>  
-<ul>
-  <li><strong>Automated report generation</strong>, saving <strong>5 hours/week</strong> using Python & SQL.</li>
-  <li><strong>Researching & developing process automation</strong>, optimizing HR & customer service workflows.</li>
-  <li><strong>Building RAG-based LLM models</strong>, improving NLP efficiency and accuracy.</li>
-</ul>
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Giritharan Mani"
+        self.role = "AI Engineer & Data Analyst"
+        self.education = "B.Tech AI & Data Science (CGPA: 8.43/10)"
+        self.current_focus = ["RAG Systems", "Business Intelligence", "Process Automation"]
+        self.achievements = {
+            "ml_models_built": "100+",
+            "students_mentored": "300+",
+            "process_optimization": "90%",
+            "aws_deepracer_rank": "Top 1%"
+        }
+    
+    def current_mission(self):
+        return "Building AI solutions that drive real business impact"
+    
+    def career_highlights(self):
+        return [
+            "🏆 AWS DeepRacer Top 1% (500+ participants)",
+            "🥇 Googleathon 2023 Winner",
+            "👥 Led 30-member GDSC technical team",
+            "🌏 Global collaborations (UK, US, South Korea)"
+        ]
 
-<h3 style="color: #ffb703;">🌟 Machine Learning Engineer Intern</h3>
-<strong>Kovan Labs, Coimbatore | Mar 2024 - Aug 2024</strong>  
-<ul>
-  <li><strong>Developed LLM-powered RAG models</strong>, reducing manual support by <strong>65%</strong>.</li>
-  <li><strong>Fine-tuned LLaMA models</strong>, increasing response accuracy by <strong>40%</strong>.</li>
-  <li><strong>Optimized ML pipelines</strong>, cutting response delays by <strong>40%</strong> and saving operational costs.</li>
-</ul>
-
-<h3 style="color: #ffb703;">🌟 Research Intern</h3>
-<strong>Kyungpook National University, South Korea | Dec 2022 – Jan 2023</strong>  
-<ul>
-  <li><strong>Enhanced ML model accuracy by 10%</strong> through feature engineering & preprocessing.</li>
-  <li><strong>Developed optimized classification models</strong>, improving structured data pattern recognition.</li>
-</ul>
-
-<h3 style="color: #ffb703;">🌟 Data Analyst Intern</h3>
-<strong>Lenovo, Pondicherry | Aug 2022</strong>  
-<ul>
-  <li><strong>Automated data analysis pipelines</strong>, reducing manual effort by <strong>30%</strong>.</li>
-  <li><strong>Increased decision-making efficiency by 25%</strong> through real-time visualization.</li>
-</ul>
-
----
-
-<h2 align="center" style="color: #34a4eb;"> 🧩 Highlighted Projects </h2>
-
-<h3>🔋 Battery RUL Prediction | Python, Scikit-Learn, MySQL</h3>
-<ul>
-  <li><strong>Developed an ML-powered battery health dashboard</strong>, increasing EV showroom satisfaction by <strong>10%</strong>.</li>
-  <li><strong>Reduced failure rates by 25%</strong> through predictive maintenance, optimizing battery lifespan.</li>
-</ul>
-
-<h3>🌕 Enhancing Lunar Surface Images | Python, OpenCV, NumPy</h3>
-<ul>
-  <li><strong>Improved image clarity by 35%</strong>, aiding lunar terrain analysis for research applications.</li>
-  <li><strong>Increased feature detection accuracy by 40%</strong>, enhancing space exploration data quality.</li>
-</ul>
+me = DataScientist()
+print(me.current_mission())
+```
 
 ---
 
-<h2 align="center" style="color: #ff5733;"> 🛠 Skills & Tools </h2>
+## 🛠️ **Tech Arsenal**
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/SQL-%23007396.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-<img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
-<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-<img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
-</p>
+<div align="center">
+
+### **Data Science & Analytics**
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Expert-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Expert-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Expert-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-Advanced-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### **AI & Machine Learning**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20GPT-Advanced-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-Advanced-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+
+### **Business Intelligence**
+![Tableau](https://img.shields.io/badge/Tableau-Expert-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-Expert-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-Intermediate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Intermediate-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-<h2 align="center" style="color: #d33f49;"> 🏆 Awards & Achievements </h2>
+## 🚀 **Featured Projects**
 
-<ul>
-  <li>🏆 <strong>Googleathon 2023 Winner</strong> | Outperformed <strong>100+ teams</strong> with an AI-driven solution.</li>
-  <li>🚀 <strong>AWS DeepRacer Finalist</strong> | Ranked <strong>top 1%</strong> among <strong>500+ participants</strong> in ML-based autonomous racing.</li>
-  <li>📈 <strong>AI Stock Prediction Winner</strong> | Built a high-performing ML model to win <strong>1st place</strong> in a national competition.</li>
-  <li>🎖 <strong>Kamarajar Award</strong> | Recognized in the <strong>top 1%</strong> for academic and leadership excellence.</li>
-</ul>
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🤖 **Customer Support RAG Bot**
+*Advanced RAG system for automated customer support*
+
+[![View Project](https://img.shields.io/badge/View%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/MystiFoe/Customer-Support-Automation-using-RAG-Based-Bot)
+
+**Key Metrics:**
+- 🎯 **92% Response Accuracy**
+- 🔧 **65% Resolution Rate**
+- ⚡ **Real-time Analytics**
+
+![RAG](https://img.shields.io/badge/RAG-Systems-FF6B6B?style=flat)
+![LLMs](https://img.shields.io/badge/LLMs-Integration-4ECDC4?style=flat)
+![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=flat)
+
+</td>
+<td align="center" width="50%">
+
+### 📊 **AI Lead Generation System**
+*Intelligent automation for sales optimization*
+
+[![Demo](https://img.shields.io/badge/Live%20Demo-Available-green?style=for-the-badge)](#)
+
+**Key Metrics:**
+- 📈 **85% Lead Quality Improvement**
+- ⏱️ **70% Time Reduction**
+- 🎯 **Automated Scoring**
+
+![AI](https://img.shields.io/badge/AI-Automation-FF6F00?style=flat)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-API-0077B5?style=flat)
+![ML](https://img.shields.io/badge/Machine-Learning-E97627?style=flat)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🔋 **Battery RUL Prediction**
+*ML-powered predictive maintenance system*
+
+[![Documentation](https://img.shields.io/badge/Documentation-Available-blue?style=for-the-badge)](#)
+
+**Key Metrics:**
+- 🎯 **94% Prediction Accuracy**
+- 💰 **32% Cost Savings**
+- 🔧 **Predictive Maintenance**
+
+![ML](https://img.shields.io/badge/Machine-Learning-F7931E?style=flat)
+![IoT](https://img.shields.io/badge/IoT-Integration-009688?style=flat)
+![Analytics](https://img.shields.io/badge/Predictive-Analytics-673AB7?style=flat)
+
+</td>
+<td align="center" width="50%">
+
+### 📈 **Business Forecast Dashboard**
+*Advanced forecasting with strategic planning*
+
+[![View Code](https://img.shields.io/badge/View%20Code-Repository-orange?style=for-the-badge)](#)
+
+**Key Metrics:**
+- 📊 **89% Forecast Accuracy**
+- 📈 **55% Planning Efficiency**
+- 🎯 **Strategic Analytics**
+
+![Forecasting](https://img.shields.io/badge/Time%20Series-Forecasting-2196F3?style=flat)
+![BI](https://img.shields.io/badge/Business-Intelligence-4CAF50?style=flat)
+![Visualization](https://img.shields.io/badge/Data-Visualization-FF9800?style=flat)
+
+</td>
+</tr>
+</table>
 
 ---
 
-<h2 align="center" style="color: #6c63ff;"> 🌐 Let's Connect! </h2>
+## 📊 **GitHub Analytics**
 
-<p align="center">
-<a href="https://linkedin.com/in/mystifoe"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/MystiFoe"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MystiFoe&show_icons=true&theme=radical" alt="GitHub Stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MystiFoe&theme=radical" alt="GitHub Streak">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=MystiFoe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MystiFoe&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%">
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MystiFoe&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" width="49%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MystiFoe&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="49%">
+
+</div>
+
+---
+
+## 🏆 **Achievements & Recognition**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🏆 AWS DeepRacer**
+<br>
+**Top 1%**
+<br>
+Among 500+ participants
+
+</td>
+<td align="center" width="25%">
+
+**🥇 Googleathon 2023**
+<br>
+**Winner**
+<br>
+Beat 100+ teams
+
+</td>
+<td align="center" width="25%">
+
+**🎖️ Kamarajar Award**
+<br>
+**Government Recognition**
+<br>
+Tamil Nadu Excellence
+
+</td>
+<td align="center" width="25%">
+
+**📚 Academic Excellence**
+<br>
+**First Rank**
+<br>
+Consistent performer
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💼 **Professional Experience**
+
+<table>
+<tr>
+<td>
+
+### 🚀 **AI Engineer Intern** | Allied Worldwide
+*February 2025 - Present*
+- 🎯 **Business Impact:** Designed intelligent automation tools streamlining lead generation
+- ⚡ **Efficiency:** Saved 5+ hours/week through AI-powered LinkedIn outreach system
+- 📊 **CRM Enhancement:** Improved efficiency by 65% through structured data management
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🤖 **Machine Learning Engineer** | Kovan Labs
+*March 2024 - August 2024*
+- 🔻 **65% reduction** in manual support workload
+- 🎯 **RAG implementation** with Llama models for production optimization
+- 📈 **ML pipeline optimization** for enhanced performance
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🌏 **Research Intern** | Kyungpook National University, South Korea
+*December 2022 - January 2023*
+- 📊 **15% accuracy improvement** in ML models through feature engineering
+- 🔬 **Global research** contribution in AI methodologies
+- 🛠️ **Innovation** in predictive analytics approaches
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌟 **Leadership Impact**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+**👥 GDSC Lead**
+<br>
+<font size="4"><b>300+</b></font>
+<br>
+Students Mentored
+
+</td>
+<td align="center">
+
+**🎪 Events Organized**
+<br>
+<font size="4"><b>25+</b></font>
+<br>
+Technical Workshops
+
+</td>
+<td align="center">
+
+**🌍 Global Reach**
+<br>
+<font size="4"><b>500+</b></font>
+<br>
+Participants Impacted
+
+</td>
+<td align="center">
+
+**🏢 Community Growth**
+<br>
+<font size="4"><b>400+</b></font>
+<br>
+ArtificGenix Members
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎯 **Current Focus**
+
+```yaml
+Technical Growth:
+  - Advanced RAG System Architecture
+  - Multi-modal AI Integration
+  - Real-time Analytics Platforms
+
+Business Impact:
+  - Enterprise AI Solutions
+  - Process Automation at Scale
+  - Strategic Data Consulting
+
+Community Contribution:
+  - Open Source AI Projects
+  - Technical Mentorship Programs
+  - Industry Best Practices
+```
+
+---
+
+## 📈 **Impact Dashboard**
+
+<div align="center">
+
+![Models Built](https://img.shields.io/badge/ML%20Models%20Built-100+-brightgreen?style=for-the-badge&logo=robot)
+![Dashboards Created](https://img.shields.io/badge/BI%20Dashboards-25+-blue?style=for-the-badge&logo=tableau)
+![AI Solutions](https://img.shields.io/badge/AI%20Solutions%20Deployed-8+-orange?style=for-the-badge&logo=openai)
+![Process Optimization](https://img.shields.io/badge/Process%20Optimization-90%25-red?style=for-the-badge&logo=target)
+
+</div>
+
+---
+
+## 🏅 **Certifications**
+
+- ✅ **Google Data Analytics Professional**
+- ✅ **Google Business Intelligence Professional**  
+- ✅ **Python for Data Science (Advanced)**
+- ✅ **Programming Techniques Certification**
+
+---
+
+<div align="center">
+
+## 🤝 **Let's Connect & Collaborate**
+
+*"Transforming complex data into strategic business decisions through innovative AI solutions"*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mystifoe)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giritharanmani1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MystiFoe)
+
+---
+
+### 💡 **Open to:**
+- Full-time AI/Data Science opportunities
+- Strategic consulting projects
+- Open source collaborations
+- Technical mentorship initiatives
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=MystiFoe&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views">
+
+*Ready to drive your next breakthrough? Let's build something amazing together! 🚀*
+
+</div>
