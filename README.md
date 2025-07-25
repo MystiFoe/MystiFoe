@@ -1,6 +1,11 @@
-
-# Giritharan Mani | Data Scientist & AI Engineer
 <div align="center">
+
+# 🚀 Giritharan Mani | Data Scientist & AI Engineer
+
+</div>
+
+<div align="center">
+  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=Transforming+Data+into+Strategic+Insights;Building+Intelligent+AI+Solutions;Bridging+Technology+%26+Business+Impact)](https://git.io/typing-svg)
 
   <br>
